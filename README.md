@@ -1,4 +1,9 @@
 ### Hi there 👋
+My full name is Tran Pham Minh Khuy and I'm based in Ho Chi Minh City, Vietnam.
+
+I am a friendly and passionate developer. I thrive on creating innovative solutions and constantly expanding my knowledge in the field of development. With a deep passion for technology and a friendly demeanor, I enjoy collaborating with others to bring ideas to life. I believe in building strong relationships and fostering a positive environment for effective teamwork.
+
+Currently, I am expanding my skills to the full-stack developer, and I am looking for remote or hybrid job opportunities as a front-end developer.
 
 
 <!--
